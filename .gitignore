@@ -120,6 +120,10 @@ venv.bak/
 # VS Code stuff
 .vscode
 .vscode/
+.idea
+.idea/
+*.code-workspace
+
 
 # Rope project settings
 .ropeproject
